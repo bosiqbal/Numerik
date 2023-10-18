@@ -1,2 +1,0 @@
-# Numerik
-Belajar 
